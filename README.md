@@ -123,7 +123,7 @@
 ```bash
 $ git clone https://github.com/dataabc/weiboSpider.git
 $ cd weiboSpider
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt -i http://pypi.douban.com/simple --trusted-host pypi.douban.com //国内源辅助安装
 ```
 
 #### pip安装
